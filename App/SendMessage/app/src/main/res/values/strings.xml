@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Send Message</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_sender">Sender</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="title_activity_login">Login - Send Message</string>
+    <string name="title_activity_send">Enviar Mensagem</string>
+</resources>
